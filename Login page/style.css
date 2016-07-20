@@ -7,14 +7,18 @@ body{
 form{
     background-color:lightgray;
     width:20em;
-    height: 28em;
+    height: 26em;
     border-radius: 0.25em;
     padding:1em;
-    margin: 2em 0em 0em 20em;
     box-shadow: -0.7em 1em 1em black;
+    display: inline-block;
+    margin-left: 2em;
+    margin-top:6em;
+
 }
 input ,select{
     margin:0.2em 0.2em 0.2em 0em;
+    border-radius: 0.25em;
 }
 .input-paddding {
     padding:0.2em;
@@ -24,6 +28,15 @@ input ,select{
     background-color: lightblue;
     border-radius: 0.25em;
     padding:0.5em 1em 0.5em 1em;
-    border: 0.1em solid cornflowerblue;
+    border: 0.1em solid darkgray;
     margin-left: 16.5em;
+    box-shadow:-0.3em 0.4em 0.7em black ;
 }
+span{
+    margin-top:2em;
+    float: left;
+    font-size: 3em;
+    background-color: lightcoral;
+
+    
+    }
