@@ -1,3 +1,41 @@
-div.A{
+body,header,nav {padding:0;margin:0 ;background-color}
+ul.inline li {display:inline;padding:5px}
+nav {float:right ;}
+.profile {border-radius:50% ;width:35px;height:35px}
+a:link{color:blue;text-decoration: none ;opacity:0.7;}
+a:visited{color:gray;}
+a:hover{color:black;text-decoration:underline ;opacity:1}
+a:active{color:black}
+.notification{background-color: black;border-radius:50%;width:25px;height:25px}
+.apps{width:25px;height:25px}
+.disable{color:gray}
+
+.google {display:table;width:;height: 45;padding:160px 200px 0px 375px;position: absolute;}
+.pakistan{display: table;padding:167px 150px 20px 585px ;color:blue;margin:0;font-family: sans-serif}
+.search input {
+   background-color; padding: 9px 0 9px 5px;width:400px;
 }
-td.B{border-radius: 50%;}
+.search{
+    padding:10px 0px 0px 300px;position: absolute;
+}
+footer {
+    position: fixed ;background-color:#e4e4e4 ;width:1024px;height:70px;
+}
+li{display: inline}
+.footer{
+    padding-top:400px;
+}
+.left{
+    float: left; word-spacing: 6px
+}
+.right{
+    float:right;word-spacing: 6px;padding-right:20px
+}
+.Google-Search{border:0px solid lightslategray; background-color:#f1f1f1;padding:10px;font-size:15px;color:rgb(102, 102, 102)}
+.table{
+    padding: 75px 0px 25px 380px ;background-color:;font-family: sans-serif;
+}
+.avalaible{
+    padding-top:15px;
+    padding-left:5px;
+}

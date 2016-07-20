@@ -1,3 +1,17 @@
+/* for index page's Heading */
 sup{
 color:dimgray;font-size:20px;text-transform:lowercase}
 h1 {text-transform:uppercase;color:black}
+/* for Css Exercise */
+.parant-div {
+    background-color:rgb(0, 120, 155);color:black;border: 2px solid black
+}
+.parant-span{
+    background-color:lightyellow;color:lightgreen; border: 2px solid black
+}
+.child-div{
+    background-color:lightpink;color:darkviolet; border: 2px solid black
+}
+.child-span{
+    background-color: aquamarine;color: coral; border: 2px solid black
+}

@@ -1,0 +1,19 @@
+body{
+    font-family: sans-serif;
+}
+form{
+    background-color:lightgray;
+    width:30em;
+    height: 30em;
+}
+.input-paddding {
+    padding:0.2em;
+}
+.submit{
+    color:black;
+    background-color: lightblue;
+    border-radius: 0.25em;
+    padding:0.5em 1em 0.5em 1em;
+    border: 0.1em solid cornflowerblue;
+    margin-left: 16.5em;
+}
