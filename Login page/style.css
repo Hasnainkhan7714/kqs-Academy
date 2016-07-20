@@ -1,10 +1,20 @@
 body{
     font-family: sans-serif;
+    background-color: lightslategray;
+    margin: 0em;
+    padding:0em;
 }
 form{
     background-color:lightgray;
-    width:30em;
-    height: 30em;
+    width:20em;
+    height: 28em;
+    border-radius: 0.25em;
+    padding:1em;
+    margin: 2em 0em 0em 20em;
+    box-shadow: -0.7em 1em 1em black;
+}
+input ,select{
+    margin:0.2em 0.2em 0.2em 0em;
 }
 .input-paddding {
     padding:0.2em;
