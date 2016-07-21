@@ -1,14 +1,14 @@
 body{
     font-family: sans-serif;
-    background-color: lightslategray;
+    background-image: url("images.jpg");
     margin: 0em;
     padding:0em;
 }
 form{
-    background-color:lightgray;
+    background-color:rgba(41, 86, 214, 0.62);
     width:20em;
     height: 26em;
-    border-radius: 0.25em;
+    border-radius: 0.5em;
     padding:1em;
     box-shadow: -0.7em 1em 1em black;
     display: inline-block;
@@ -26,17 +26,31 @@ input ,select{
 .submit{
     color:black;
     background-color: lightblue;
-    border-radius: 0.25em;
+    border-radius: 1em;
     padding:0.5em 1em 0.5em 1em;
     border: 0.1em solid darkgray;
     margin-left: 16.5em;
     box-shadow:-0.3em 0.4em 0.7em black ;
 }
-span{
+.welcome{
     margin-top:2em;
     float: left;
     font-size: 3em;
-    background-color: lightcoral;
+    background-color: rgba(132, 34, 34, 0.73);
+    width:10em;
+    height:5em;
+    text-align: center;
+    padding-top:1em;
+    line-height: 2em;
+    font-weight: 600;
+    font-family: Colonna MT;
+    margin-left:1.2em;
+    margin-right:0.5em;
+    margin-top:3em;
+    border-top-left-radius:1.5em;
+    border-bottom-right-radius:1.5em;
+    box-shadow:-0.3em 0.4em 0.7em black;
+   color:black:;
 
-    
-    }
+
+ }
