@@ -1,6 +1,7 @@
 body{
     font-family: sans-serif;
     background-image: url("images.jpg");
+    background-repeat: space;
     margin: 0em;
     padding:0em;
 }
@@ -25,10 +26,10 @@ input ,select{
 }
 .submit{
     color:black;
-    background-color: lightblue;
+    background-color: rgba(113, 141, 221, 0.77);
     border-radius: 1em;
     padding:0.5em 1em 0.5em 1em;
-    border: 0.1em solid darkgray;
+    border:0em;
     margin-left: 16.5em;
     box-shadow:-0.3em 0.4em 0.7em black ;
 }
